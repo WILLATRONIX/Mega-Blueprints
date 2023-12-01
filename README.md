@@ -1,5 +1,5 @@
 # Mega-Blueprints
-[a]([url](https://img.shields.io/github/downloads/WILLATRONIX/Mega-Blueprints/total.sv))
+
 Credits  
    
 ◊ Discord  
